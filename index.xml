@@ -37,6 +37,79 @@
     </item>
     
     <item>
+      <title>Легковесные языки разметки</title>
+      <link>https://example.com/publication/publ2/</link>
+      <pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/publ2/</guid>
+      <description>&lt;h1 id=&#34;легковесные-языки-разметки&#34;&gt;Легковесные языки разметки&lt;/h1&gt;
+&lt;p&gt;Легковесные языки разметки (lightweight markup languages) — это текстовые форматы, предназначенные для простой и понятной разметки текста. Они позволяют добавлять форматирование к тексту, используя минимальное количество специальных символов, что делает их удобными для быстрого написания и чтения, даже без необходимости визуализации.&lt;/p&gt;
+&lt;h2 id=&#34;преимущества-легковесных-языков-разметки&#34;&gt;Преимущества легковесных языков разметки&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Простота и читабельность&lt;/strong&gt; — их можно читать в обычном текстовом виде без необходимости парсинга.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Удобство написания&lt;/strong&gt; — минимум специальных символов позволяет быстро форматировать текст.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Конвертация&lt;/strong&gt; — легко преобразуются в HTML, PDF и другие форматы.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Широкая поддержка&lt;/strong&gt; — популярные системы управления контентом и инструменты разработки поддерживают легковесные языки.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;популярные-легковесные-языки-разметки&#34;&gt;Популярные легковесные языки разметки&lt;/h2&gt;
+&lt;h3 id=&#34;1-markdown&#34;&gt;1. Markdown&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Markdown&lt;/strong&gt; — один из самых популярных легковесных языков разметки, разработанный для быстрого создания HTML. Его синтаксис интуитивно понятен и минималистичен.&lt;/p&gt;
+&lt;p&gt;Пример синтаксиса:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gh&#34;&gt;# Заголовок уровня 1
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gh&#34;&gt;&lt;/span&gt;&lt;span class=&#34;gu&#34;&gt;## Заголовок уровня 2
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gu&#34;&gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gs&#34;&gt;**Жирный текст**&lt;/span&gt; или &lt;span class=&#34;ge&#34;&gt;_курсив_&lt;/span&gt;.
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Список 1
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Список 2
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;[&lt;span class=&#34;nt&#34;&gt;Ссылка&lt;/span&gt;](&lt;span class=&#34;na&#34;&gt;https://example.com&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;2-restructuredtext-rest&#34;&gt;2. reStructuredText (reST)&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;reStructuredText&lt;/strong&gt; — более мощный язык разметки по сравнению с Markdown. Он часто используется в документации для Python и других проектов.&lt;/p&gt;
+&lt;p&gt;Пример синтаксиса:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-rst&#34; data-lang=&#34;rst&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;&lt;/span&gt; Заголовок уровня 1&lt;span class=&#34;err&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;&lt;/span&gt; ==================&lt;span class=&#34;err&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;&lt;/span&gt; Жирный текст: &lt;span class=&#34;gs&#34;&gt;**жирный**&lt;/span&gt; или &lt;span class=&#34;ge&#34;&gt;*курсив*&lt;/span&gt;.&lt;span class=&#34;err&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; &lt;span class=&#34;m&#34;&gt;-&lt;/span&gt; Список 1&lt;span class=&#34;err&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;-&lt;/span&gt; Список 2&lt;span class=&#34;err&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;&lt;/span&gt; Ссылка: &lt;span class=&#34;s&#34;&gt;`текст ссылки &lt;/span&gt;&lt;span class=&#34;si&#34;&gt;&amp;lt;https://example.com&amp;gt;&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;`_&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;###3. AsciiDoc
+&lt;strong&gt;AsciiDoc&lt;/strong&gt; — более сложный легковесный язык, поддерживающий более широкие возможности разметки. Он используется для создания технической документации, книг и статей.&lt;/p&gt;
+&lt;p&gt;Пример синтаксиса:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;= Заголовок уровня 1
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Жирный текст: *жирный* или _курсив_.
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;- Список 1
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;- Список 2
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Ссылка: https://example.com[Текст ссылки]
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;применение-легковесных-языков-разметки&#34;&gt;Применение легковесных языков разметки&lt;/h2&gt;
+&lt;p&gt;Легковесные языки разметки нашли применение во многих областях:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Документация&lt;/strong&gt; — проекты с открытым исходным кодом часто используют Markdown или reST для документации.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Веб-разработка&lt;/strong&gt; — эти языки часто применяются для генерации HTML-контента.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Блоги и статьи&lt;/strong&gt; — многие платформы для блогов поддерживают Markdown для создания статей.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;заключение&#34;&gt;Заключение&lt;/h2&gt;
+&lt;p&gt;Легковесные языки разметки — это удобный инструмент для создания структурированных текстов с минимальными усилиями. Благодаря их простоте и гибкости, они стали неотъемлемой частью веб-разработки, документации и создания контента.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моя неделя с 14.10 по 20.10</title>
+      <link>https://example.com/post/post2/</link>
+      <pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/post2/</guid>
+      <description>&lt;p&gt;На этой неделе я выбрал научного руководителя и утвердил тему ВКР.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Моя неделя с 30.09 по 5.10</title>
       <link>https://example.com/post/post1/</link>
       <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic | Hugo Academic CV Theme</title>
-    <link>https://example.com/tags/academic/</link>
-      <atom:link href="https://example.com/tags/academic/index.xml" rel="self" type="application/rss+xml" />
-    <description>Academic</description>
+    <title>Markup | Hugo Academic CV Theme</title>
+    <link>https://example.com/tags/markup/</link>
+      <atom:link href="https://example.com/tags/markup/index.xml" rel="self" type="application/rss+xml" />
+    <description>Markup</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 17 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu7729264130191091259.png</url>
-      <title>Academic</title>
-      <link>https://example.com/tags/academic/</link>
+      <title>Markup</title>
+      <link>https://example.com/tags/markup/</link>
     </image>
     
     <item>
@@ -73,74 +73,6 @@
 &lt;/ul&gt;
 &lt;h2 id=&#34;заключение&#34;&gt;Заключение&lt;/h2&gt;
 &lt;p&gt;Легковесные языки разметки — это удобный инструмент для создания структурированных текстов с минимальными усилиями. Благодаря их простоте и гибкости, они стали неотъемлемой частью веб-разработки, документации и создания контента.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Моя неделя с 14.10 по 20.10</title>
-      <link>https://example.com/post/post2/</link>
-      <pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/post2/</guid>
-      <description>&lt;p&gt;На этой неделе я выбрал научного руководителя и утвердил тему ВКР.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Моя неделя с 30.09 по 5.10</title>
-      <link>https://example.com/post/post1/</link>
-      <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/post1/</guid>
-      <description>&lt;p&gt;На этой неделе я выбрал научного руководителя и утвердил тему ВКР.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Управление версиями. Git</title>
-      <link>https://example.com/publication/publ1/</link>
-      <pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/publ1/</guid>
-      <description>&lt;h1 id=&#34;управление-версиями-git&#34;&gt;Управление версиями. Git&lt;/h1&gt;
-&lt;h2 id=&#34;что-такое-управление-версиями&#34;&gt;Что такое управление версиями?&lt;/h2&gt;
-&lt;p&gt;Управление версиями — это процесс отслеживания изменений в файлах проекта. Благодаря этому можно:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Сохранять историю изменений&lt;/li&gt;
-&lt;li&gt;Возвращаться к предыдущим версиям&lt;/li&gt;
-&lt;li&gt;Работать с несколькими участниками над одним проектом&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;git--основа-управления-версиями&#34;&gt;Git — основа управления версиями&lt;/h2&gt;
-&lt;p&gt;Git — это распределённая система управления версиями, которая позволяет:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Локально хранить всю историю изменений&lt;/li&gt;
-&lt;li&gt;Работать с ветками&lt;/li&gt;
-&lt;li&gt;Интегрировать изменения от разных участников&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;основные-команды-git&#34;&gt;Основные команды Git&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;git init&lt;/strong&gt; — Инициализация репозитория в текущей директории.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;git clone &lt;url&gt;&lt;/strong&gt; - Копирует удалённый репозиторий на локальную машину.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;git add &amp;lt;файл&amp;gt;&lt;/strong&gt; - Добавляет файл в индекс (staging area) для последующего коммита.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;git commit -m &amp;ldquo;Сообщение о коммите&amp;rdquo;&lt;/strong&gt; - Создаёт снимок состояния файлов и сохраняет его в истории.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;git branch &amp;lt;имя_ветки&amp;gt;&lt;/strong&gt; - Создаёт новую ветку.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Получает последние изменения из удалённого репозитория и объединяет их с локальными.&lt;/p&gt;
-&lt;h3 id=&#34;основные-рабочие-процессы-в-git&#34;&gt;Основные рабочие процессы в Git:&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Git Flow&lt;/strong&gt;: Популярная модель, которая предполагает использование двух основных веток: &lt;code&gt;master&lt;/code&gt; для стабильных релизов и &lt;code&gt;develop&lt;/code&gt; для текущей разработки.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Feature Branch Workflow&lt;/strong&gt;: Ветвление для каждой новой функции, с последующим слиянием в основную ветку.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Forking Workflow&lt;/strong&gt;: Создание копии основного репозитория и работа с ним через pull request&amp;rsquo;ы для предложения изменений.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;заключение&#34;&gt;Заключение&lt;/h2&gt;
-&lt;p&gt;Git — мощный инструмент, который помогает разработчикам эффективно управлять проектами, отслеживать изменения и работать в команде. Понимание и умение работать с Git — важный навык для любого, кто работает с кодом.&lt;/p&gt;
 </description>
     </item>
     
