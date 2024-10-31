@@ -5,12 +5,64 @@
     <link>https://example.com/publication/</link>
       <atom:link href="https://example.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 17 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 29 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu7729264130191091259.png</url>
       <title>Publications</title>
       <link>https://example.com/publication/</link>
     </image>
+    
+    <item>
+      <title>Оформление отчёта по работе</title>
+      <link>https://example.com/publication/publ3/</link>
+      <pubDate>Tue, 29 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/publ3/</guid>
+      <description>&lt;h1 id=&#34;оформление-отчёта-по-работе&#34;&gt;Оформление отчёта по работе&lt;/h1&gt;
+&lt;p&gt;Правильное оформление отчёта — залог его понимания и высокого качества. В отчёте должны быть представлены структура, чёткие выводы и аккуратное форматирование.&lt;/p&gt;
+&lt;h2 id=&#34;основные-части-отчёта&#34;&gt;Основные части отчёта&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Титульный лист&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Название работы, автор, дата и другие формальные данные.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Введение&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Краткое описание целей и задач работы, её актуальности.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Основная часть&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Описание методов, материалов и процессов, используемых в работе.&lt;/li&gt;
+&lt;li&gt;Детализация полученных данных, сопровождаемых таблицами, графиками или диаграммами.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Выводы&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Основные результаты и краткие выводы по проделанной работе.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Приложения&lt;/strong&gt; &lt;em&gt;(при необходимости)&lt;/em&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Дополнительные материалы, не вошедшие в основное содержание.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;советы-по-оформлению&#34;&gt;Советы по оформлению&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Единый стиль&lt;/strong&gt;: используйте одинаковый шрифт и размер текста по всему документу.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Нумерация&lt;/strong&gt;: все разделы и подразделы должны быть пронумерованы.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Иллюстрации и таблицы&lt;/strong&gt;: добавляйте подписи и номера для всех графиков и таблиц.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ссылки&lt;/strong&gt;: корректно оформляйте источники и используйте их по мере необходимости.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Следование этим правилам поможет создать структурированный и профессиональный отчёт.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Легковесные языки разметки</title>
